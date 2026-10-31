@@ -57,5 +57,10 @@ Excel-Employee-Workforce-Dashboard/
 ```
 The sanitized workbook and screenshot are suggested future assets, not included in this documentation package.
 
+# Dashboard Preview
+1. Summary Dashboard
+##[Employee Work Force Dashboard] <img width="1838" height="845" alt="Screenshot 2026-10-31 195653" src="https://github.com/user-attachments/assets/e8d2cc51-cf6f-4041-a312-3e3813ecf744" />
+
+
 ## Portfolio description
 Built an interactive Excel workforce dashboard using 785 employee records to report employee status, attrition share, tenure and workforce composition. Applied PivotTables, GETPIVOTDATA, charts and slicers, with a documented workflow for rebuilding the analysis and adding VBA-powered refresh and fullscreen controls.
